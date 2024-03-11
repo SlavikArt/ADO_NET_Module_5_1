@@ -13,16 +13,8 @@
 
 <table>
   <tr>
-    <h2>Task 2</h2>
-    <a href="Task_2/Program.cs">-> Task_2.cs - code</a>
-    <td><img src="images/2.png"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <h2>Task 3</h2>
-    <a href="Task_2/Program.cs">-> Task_3.cs - code</a>
+    <a href="Task_3/Program.cs">-> Task_3.cs - code</a>
     <td><img src="images/3.png"></td>
   </tr>
 </table>
